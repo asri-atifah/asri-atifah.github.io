@@ -1,0 +1,54 @@
+body {background-color: #ccf2ff;}
+
+.about {
+	font-family: copperplate, fantasy; 
+	text-align: center;
+	}
+
+img.foto {
+	display: block;
+	margin-top: 10px;
+	margin-left: auto; 
+	margin-right: auto;
+	}
+
+table, td, th {
+	border-collapse: collapse; 
+	width: 25%; 
+	border: 1px solid black;
+	padding: 10px;
+	margin: auto;
+	background-color: white; 
+	}
+
+table {
+	margin-top: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 25px;
+	}
+
+.tabel {
+	border: 5px solid white;
+	margin-left: 10cm;
+	margin-right: 10cm;
+	background-color: #ece5ff;
+	}
+
+.judul {
+	font-family: copperplate, fantasy;
+	text-align: center;
+	margin-top: 50px;
+	}
+
+p {
+	text-align: justify;
+	margin-left: 50px;
+	margin-right: 50px;
+	}
+
+.pengalaman {
+	border : 5px solid white;
+	background-color: #ece5ff;
+	margin-top: 20px;
+}
