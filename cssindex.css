@@ -29,10 +29,11 @@ table {
 	}
 
 .tabel {
-	border: 5px solid white;
+	border: 10px solid white;
+	margin-top: 25px;
 	margin-left: 10cm;
 	margin-right: 10cm;
-	background-color: #ece5ff;
+	background-color: #e5e1d8;
 	}
 
 .judul {
@@ -48,7 +49,10 @@ p {
 	}
 
 .pengalaman {
-	border : 5px solid white;
-	background-color: #ece5ff;
+	border : 10px solid white;
+	background-color: #e5e1d8;
 	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
 }
